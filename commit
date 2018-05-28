@@ -1,0 +1,51 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: GREY <grey@GREYs-MacBook-Pro.local>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .idea/misc.xml
+#	new file:   .idea/modules.xml
+#	new file:   .idea/todo.iml
+#	new file:   .idea/workspace.xml
+#	new file:   db.sqlite3
+#	new file:   manage.py
+#	new file:   todo/__init__.py
+#	new file:   todo/__pycache__/__init__.cpython-36.pyc
+#	new file:   todo/__pycache__/settings.cpython-36.pyc
+#	new file:   todo/__pycache__/urls.cpython-36.pyc
+#	new file:   todo/__pycache__/wsgi.cpython-36.pyc
+#	new file:   todo/settings.py
+#	new file:   todo/urls.py
+#	new file:   todo/wsgi.py
+#	new file:   todos/__init__.py
+#	new file:   todos/__pycache__/__init__.cpython-36.pyc
+#	new file:   todos/__pycache__/admin.cpython-36.pyc
+#	new file:   todos/__pycache__/apps.cpython-36.pyc
+#	new file:   todos/__pycache__/models.cpython-36.pyc
+#	new file:   todos/__pycache__/urls.cpython-36.pyc
+#	new file:   todos/__pycache__/views.cpython-36.pyc
+#	new file:   todos/admin.py
+#	new file:   todos/apps.py
+#	new file:   todos/migrations/0001_initial.py
+#	new file:   todos/migrations/0002_auto_20180527_1040.py
+#	new file:   todos/migrations/__init__.py
+#	new file:   todos/migrations/__pycache__/0001_initial.cpython-36.pyc
+#	new file:   todos/migrations/__pycache__/0002_auto_20180527_1040.cpython-36.pyc
+#	new file:   todos/migrations/__pycache__/__init__.cpython-36.pyc
+#	new file:   todos/models.py
+#	new file:   todos/static/css/style.css
+#	new file:   todos/templates/includes/footer.html
+#	new file:   todos/templates/includes/header.html
+#	new file:   todos/templates/todos/add.html
+#	new file:   todos/templates/todos/edit.html
+#	new file:   todos/templates/todos/index.html
+#	new file:   todos/tests.py
+#	new file:   todos/urls.py
+#	new file:   todos/views.py
+#
